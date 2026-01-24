@@ -3,9 +3,9 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/dedbot365/github-status">
-<img src="https://github.com/dedbot365/github-status/blob/master/generated/overview.svg" />
-<img src="https://github.com/dedbot365/github-status/blob/master/generated/languages.svg" />
+<a href="https://github.com/pathakanish41/github-status">
+<img src="https://github.com/pathakanish41/github-status/blob/master/generated/overview.svg" />
+<img src="https://github.com/pathakanish41/github-status/blob/master/generated/languages.svg" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
